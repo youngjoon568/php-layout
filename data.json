@@ -1,0 +1,14 @@
+[
+    {
+        "term" : "html",
+        "desc" : "웹의 구조"
+    },
+    {
+        "term" : "css",
+        "desc" : "웹의 디자인"
+    },
+    {
+        "term" : "javascript",
+        "desc" : "웹의 동작"
+    }
+]
